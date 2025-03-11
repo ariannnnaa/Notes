@@ -1,4 +1,4 @@
-import banner from '../assets/images/banner.jpg' //логотип заметок
+import banner from '../assets/images/banner.jpg'
 
 const Home = () => {
     return (
